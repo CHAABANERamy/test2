@@ -17,6 +17,16 @@ namespace Metier
     {
     }
 
+    public interface ITest
+    {
+
+    }
+
+    public interface ITest2
+    {
+
+    }
+
     public class Class1234
     {
     }
