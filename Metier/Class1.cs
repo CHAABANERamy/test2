@@ -21,4 +21,9 @@ namespace Metier
     {
 
     }
+
+    public interface ITest2
+    {
+
+    }
 }
