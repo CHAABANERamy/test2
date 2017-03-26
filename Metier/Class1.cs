@@ -9,4 +9,9 @@ namespace Metier
     public class Class1
     {
     }
+
+    public interface ITest
+    {
+
+    }
 }
