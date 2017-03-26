@@ -16,4 +16,8 @@ namespace Metier
     public class Class123
     {
     }
+
+    public class Class1234
+    {
+    }
 }
