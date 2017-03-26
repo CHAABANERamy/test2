@@ -3,11 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Test2.Console", "Test2.Console\Test2.Console.shproj", "{CC01DBEE-0700-4E8D-BAB8-C9D8CB1C0F4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{CCAC25C6-C6AE-418F-8859-BA6DC1BC3F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metier", "Metier\Metier.csproj", "{89CF4CBF-C4AB-4893-BE2F-F4148739A057}"
 EndProject
 Global
-	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		Test2.Console\Test2.Console.projitems*{cc01dbee-0700-4e8d-bab8-c9d8cb1c0f4f}*SharedItemsImports = 13
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCAC25C6-C6AE-418F-8859-BA6DC1BC3F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAC25C6-C6AE-418F-8859-BA6DC1BC3F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAC25C6-C6AE-418F-8859-BA6DC1BC3F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAC25C6-C6AE-418F-8859-BA6DC1BC3F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89CF4CBF-C4AB-4893-BE2F-F4148739A057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CF4CBF-C4AB-4893-BE2F-F4148739A057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89CF4CBF-C4AB-4893-BE2F-F4148739A057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89CF4CBF-C4AB-4893-BE2F-F4148739A057}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
