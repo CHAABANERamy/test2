@@ -30,4 +30,8 @@ namespace Metier
     public class Class1234
     {
     }
+
+    public class Class123456789
+    {
+    }
 }
